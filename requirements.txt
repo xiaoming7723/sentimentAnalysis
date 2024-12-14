@@ -81,3 +81,4 @@ watchdog==6.0.0
 wcwidth==0.2.13
 webencodings==0.5.1
 yarg==0.1.9
+setuptools==75.6.0
